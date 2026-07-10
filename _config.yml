@@ -1,6 +1,9 @@
 title: Michael Pimble
 description: My personal website
 theme: minima
+author:
+  name: Michael Pimble
+  email: "pimblemichael@yahoo.com"
 
 minima:
   skin: dark
