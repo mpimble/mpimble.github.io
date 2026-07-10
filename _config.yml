@@ -1,6 +1,7 @@
 title: Michael Pimble
 description: My personal website
-theme: jekyll-theme-minimal
+theme: minima
+ skin: dark
  
 header_pages:
   - about.md
