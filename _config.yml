@@ -1,0 +1,6 @@
+title: Michael Pimble
+description: My personal website
+theme: minima
+ 
+header_pages:
+  - about.md
