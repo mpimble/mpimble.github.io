@@ -10,3 +10,8 @@ minima:
 
 header_pages:
   - about.md
+
+collections:
+  projects:
+    output: true
+    permalink: /projects/:path/
