@@ -1,12 +1,9 @@
 title: Michael Pimble
 description: My personal website
-theme: minima
+remote_theme: minimal-mistakes-jekyll
 author:
   name: Michael Pimble
   email: "pimblemichael@yahoo.com"
-
-minima:
-  skin: dark
 
 header_pages:
   - about.md
