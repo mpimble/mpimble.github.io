@@ -1,6 +1,7 @@
 title: Michael Pimble
 description: My personal website
 remote_theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: "neon"
 author:
   name: Michael Pimble
   email: "pimblemichael@yahoo.com"
