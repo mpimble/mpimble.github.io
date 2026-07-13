@@ -4,4 +4,4 @@ title: "About Me"
 permalink: /about
 ---
 
-Michael Pimble is a third-year etc etc etc.
+Hello, I am a fourth-year student at Northeastern University who is interested in machine learning, Linux, and cybersecurity.
