@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "About"
+title: "About Me"
 permalink: /about
 ---
 
