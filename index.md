@@ -1,1 +1,3 @@
-# Welcome to my website!
+---
+title: "Welcome to My Website!"
+---
