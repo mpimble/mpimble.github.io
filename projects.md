@@ -7,3 +7,5 @@ entries_layout: list
 sort_by: title
 show_excerpts: true
 ---
+
+Sample text
