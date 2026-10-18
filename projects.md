@@ -8,4 +8,5 @@ sort_by: title
 show_excerpts: true
 ---
 
-I'm putting things here to see what sticks
+**Here are links to some of my projects:**
+*Test line*
